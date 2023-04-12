@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Widget.ResponsiAndroid.AppWidget.Container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.ResponsiAndroid.AppWidgetContainer">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_widget"
+            style="@style/AppWidgetButton"
+            android:text="@string/widget_text"
+            android:layout_gravity="center" />
+
+    </LinearLayout>
+
+</FrameLayout>

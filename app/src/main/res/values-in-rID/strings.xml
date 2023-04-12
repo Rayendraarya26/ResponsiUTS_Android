@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Responsi-Android</string>
+    <string name="action_language">Bahasa</string>
+    <string name="map_menu">Peta</string>
+    <string name="compass_menu">Kompas</string>
+    <string name="widget_text">Klik Area Widget!</string>
+</resources>

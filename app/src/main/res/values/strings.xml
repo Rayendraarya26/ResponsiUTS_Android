@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Responsi-Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="action_language">Language</string>
+    <string name="map_menu">Map</string>
+    <string name="compass_menu">Compass</string>
+    <string name="widget_text">Click Widget Area!</string>
+</resources>
